@@ -113,4 +113,8 @@ hr{
     font-weight: bold;
     font-size: large;
 }
+.max{
+    max-width: 800px;
+    margin: auto;
+}
 
