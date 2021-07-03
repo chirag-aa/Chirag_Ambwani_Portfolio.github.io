@@ -4,12 +4,14 @@ font-family: 'Montserrat', sans-serif;
 margin: 0px;
 }
 
+
 :root{
     --primary-color:#5850eb;
 }
 hr{
     margin: 2rem 0rem;
 }
+
 .center-container{
     padding-left: 1rem;
     padding-right: 1rem;
